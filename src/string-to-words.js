@@ -1,5 +1,5 @@
 'use strict';
 
-function stringToWords(string) {
-  return string.split(` `);
+function stringToWords(text) {
+  return text.split(` `);
 }
